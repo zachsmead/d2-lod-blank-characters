@@ -14,7 +14,7 @@ How to use:
 
 Windows Users:
 
-3. If you use Windows, you can copy files from this repository to your Saves folder and it will work fine. However, on Windows you can easily replicate the same effect by just typing a letters.
+- If you use Windows, you can copy files from this repository to your Saves folder and it will work fine. However, on Windows you can easily replicate the same effect by just typing a letters.
 
 From the instructions at https://www.gamefaqs.com/pc/370600-diablo-ii-lord-of-destruction/cheats :
 1. Right click the desktop icon for D2 and click 'Properties'.
