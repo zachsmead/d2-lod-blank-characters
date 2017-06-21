@@ -2,6 +2,16 @@ I made this repository to be able to skip the boring part of D2 with a Mac. Each
 
 How to use:
 
+ -
+
+ - 
+
+ - 
+
+
+
+Mac:
+
 1. Choose a character you want to start, and copy the 4 files for that character (.d2s, .key, .ma0, .map) from this repository into your Saves folder.
 
 2. If you want all the characters, save the files from the 'all' folder into your Saves folder.
@@ -17,7 +27,7 @@ How to use:
 
 Windows Users:
 
-- If you use Windows, you can copy files from this repository to your Saves folder and that should work fine. However, on Windows you can easily replicate the same effect by just typing a few letters.
+	If you use Windows, you can copy files from this repository to your Saves folder and that should work fine. However, on Windows you can easily replicate the same effect by just typing a few letters.
 
 From the instructions at https://www.gamefaqs.com/pc/370600-diablo-ii-lord-of-destruction/cheats :
 1. Right click the desktop icon for D2 and click 'Properties'.
