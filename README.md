@@ -1,4 +1,4 @@
-I made this repository so people can skip the boring part of D2 if they use a Mac. Each folder contains the 4 required filetypes for each character class.
+I made this repository to be able to skip the boring part of D2 with a Mac. Each folder contains the 4 required filetypes for each character class.
 
 How to use:
 
@@ -8,8 +8,11 @@ How to use:
 
 (On my Mac, the path for character Saves is New Finder Window > Applications > Diablo II > Save).
 
+- 
 
+- 
 
+- 
 
 
 Windows Users:
@@ -24,3 +27,21 @@ From the instructions at https://www.gamefaqs.com/pc/370600-diablo-ii-lord-of-de
 3. In 'Target:', you should see something like '"C:\Program Files (x86)\Diablo II\Diablo II.exe"'. Keep this and just add ' -act5' next to it. This will make it so that every time you create a new character in D2, you'll start as a level 33 blank character in Act 5.
 
 4. If you don't have LoD, add ' -act4' instead and you'll start as a level 27 blank character in Act 4.
+
+- 
+
+- 
+
+- 
+
+
+Renaming a character:
+ 1. Go to the saves folder that contains your character.
+
+ 2. Find the 4 files that contain that character's name. The file extensions are .d2s, .key, .ma0, and .map
+
+ 3. For each file, Right-click or Command-click the file and click 'Rename'.
+
+ 4. Rename the character to whatever you want, making sure that all 4 names match, and that you kept all the file extensions.
+
+ Then your character's new name should show up in the game next time it runs.
